@@ -1,0 +1,31 @@
+# Week 5 - Password Generator & Your Own Module
+
+## Description
+
+This project practices Python modules, password generation, and creating a custom module.
+
+## Files
+
+- `password_generator.py` - Generates 8-character and 12-character passwords.
+- `helpers.py` - Contains the `tables_needed()` and `welcome()` functions.
+- `main.py` - Imports the `helpers` module and uses its functions.
+
+## Python Modules Used
+
+- `random`
+- `string`
+- `math`
+
+## Assignment Requirements
+
+The project includes:
+
+- An 8-character password generator
+- A 12-character password generator
+- A custom `helpers.py` module
+- A `main.py` file that imports `helpers`
+- Functions using default values and `math.ceil()`
+
+## Repository
+
+`plp-python-week5`
